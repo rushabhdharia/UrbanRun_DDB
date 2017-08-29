@@ -1,0 +1,15 @@
+.mainpicclass{
+		
+		height: 500px;
+		width: 110%;
+		margin:0 auto;
+	}
+
+.floating-box {
+    display: inline-block;
+}
+
+.navbar{
+    margin-bottom: 0px;
+}
+
